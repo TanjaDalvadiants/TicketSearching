@@ -1,3 +1,6 @@
+package ru.netology.javaqa.javaqamvn.repository;
+
+import domain.Ticket;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
